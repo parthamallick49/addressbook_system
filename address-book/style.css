@@ -1,0 +1,55 @@
+.main{
+    width: auto;
+    height: auto;
+    margin: 100px;
+    padding: 40px;
+    border: 7px solid black;
+}
+
+.address-book{
+    width: 450px;
+    height: auto;
+    margin-left: 400px;
+    border: 2px solid black;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.address-book h1{
+    text-align: center;
+}
+
+.search-by-contact{
+    width: 450px;
+    height: auto;
+    margin-left: 520px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+.search-by-contact h2{
+    text-align: center;
+    margin-right: 200px;
+}
+
+.address-book table{
+    padding-bottom: 40px;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+    
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+form {
+    margin-bottom: 10px;
+}
+
+input[type="text"], input[type="submit"] {
+    padding: 5px;
+}
